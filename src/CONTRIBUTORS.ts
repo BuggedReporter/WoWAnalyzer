@@ -1826,7 +1826,7 @@ export const Hursti: Contributor = {
 
 export const Shamorisse: Contributor = {
   nickname: 'Shamorisse',
-  github: 'Amorisse',
+  github: 'Shamorisse',
   discord: 'Amorisse#8013',
   avatar: avatar('Shamorisse-avatar.jpg'),
   mains: [

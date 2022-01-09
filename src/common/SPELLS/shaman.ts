@@ -835,6 +835,12 @@ const spells = {
     name: 'Mana Tide Totem',
     icon: 'spell_frost_summonwaterelemental',
   },
+  MANA_TIDE_TOTEM_BUFF_LEGENDARY: {
+    id: 335892,
+    name: 'Spiritwalker\'s Tidal Totem',
+    icon: 'spell_frost_summonwaterelemental',
+    //Shadowlands Legendary
+  },
   WATER_SHIELD: {
     id: 52127,
     name: 'Water Shield',
